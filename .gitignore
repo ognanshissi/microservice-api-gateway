@@ -1,3 +1,2 @@
-gateway/node_modules
-product-service/dist
-product-service/node_modules
+/*/dist
+/*/node_modules
