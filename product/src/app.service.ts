@@ -6,7 +6,7 @@ export class AppService {
   getApiInfo(): {[key: string]: any} {
     return {
       serviceName: "ProductServce",
-      version: 1.0,
+      version: 1.1,
       author: {
         name: 'Ambroise BAZIE',
         email: 'bazieambroise@gmail.com'
